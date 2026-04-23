@@ -1,0 +1,21 @@
+
+UDP: 
+
+vehical announcement (3x)
+
+vehical identification request
+vehical identification response 
+
+
+
+TCP(13400 port number): 
+
+Routing activation request
+Routing activation response
+
+
+DIagnostic message
+Diagnostic message positive acknowledgment
+
+
+TLS (3496 port number)
